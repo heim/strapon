@@ -1,0 +1,8 @@
+---
+ - name: Install dotfiles
+   git:
+     repo=https://github.com/heim/dotfiles.git
+     dest={{lookup('env','HOME')}}/.dotfiles
+ 
+ - name: Link dotfiles
+   command:  ~/.dotfiles/setup.sh
