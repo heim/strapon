@@ -8,6 +8,7 @@
 
  homebrew_packages:
   - { name: brew-cask }
+  - { name: ack }
   #- { name: git-flow }
   #- { name: nkf }
   #- { name: tmux }
@@ -22,7 +23,8 @@
   #- { name: moreutils }
   #- { name: nmap }
   #- { name: reattach-to-user-namespace }
-  #- { name: heroku-toolbelt }
+  - { name: heroku-toolbelt }
+  - { name: terraform }
   - { name: vim,
       install_options: with-lua }
   - { name: wget,

@@ -1,7 +1,7 @@
 ---
  - name: Clone dotvim repo
    git:
-     repo=https://github.com/heim/dotvim.git
+     repo=git@github.com:heim/dotvim.git
      dest={{lookup('env','HOME')}}/.vim
 
  - name: Ensure link to vimrc

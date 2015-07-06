@@ -13,7 +13,7 @@
   - spotify
   - iterm2
   - slack
-  
+  - tunnelblick
   #- firefox
   #- opera
   #- sublime-text3
@@ -31,7 +31,7 @@
   #- vlc
   #- ifunbox
   #- libreoffice
-  #- java
+  - java
   #- the-unarchiver
   #- qlstephen
   #- qlmarkdown
