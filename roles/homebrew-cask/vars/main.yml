@@ -1,40 +1,19 @@
 ---
  homebrew_cask_packages:
   - alfred
-  #- appcleaner
   - caffeine
-  #- bettertouchtool
-  #- dropbox
-  #- google-japanese-ime
+  - virtualbox
+  - vagrant
   - divvy
   - flux
+  - firefox
   - evernote
   - google-chrome
   - spotify
   - iterm2
-  - slack
-  - tunnelblick
-  #- firefox
-  #- opera
-  #- sublime-text3
-  #- iterm2
-  #- virtualbox
-  #- vagrant
-  #- sourcetree
-  #- dash
-  #- xquartz
-  #- sequel-pro
-  #- mysqlworkbench
-  #- skype
-  #- skitch
-  #- imageoptim
-  #- vlc
-  #- ifunbox
-  #- libreoffice
   - java
-  #- the-unarchiver
-  #- qlstephen
-  #- qlmarkdown
-  #- quicklook-csv
-  #- quicklook-json
-  #- qlcolorcode
+  - slack
+  - steam
+  - skype
+  - macvim
+  - tunnelblick

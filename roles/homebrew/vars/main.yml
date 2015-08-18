@@ -4,25 +4,12 @@
    - caskroom/versions
    - homebrew/versions
    - homebrew/binary
-   # - homebrew/php
 
  homebrew_packages:
   - { name: brew-cask }
   - { name: ack }
-  #- { name: git-flow }
-  #- { name: nkf }
-  #- { name: tmux }
-  #- { name: tree }
-  #- { name: pstree }
-  #- { name: mecab }
-  #- { name: mecab-ipadic }
   - { name: zsh }
   - { name: zsh-completions }
-  #- { name: jq }
-  #- { name: coreutils }
-  #- { name: moreutils }
-  #- { name: nmap }
-  #- { name: reattach-to-user-namespace }
   - { name: heroku-toolbelt }
   - { name: terraform }
   - { name: vim,
