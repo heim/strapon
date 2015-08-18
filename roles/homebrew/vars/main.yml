@@ -12,6 +12,8 @@
   - { name: zsh-completions }
   - { name: heroku-toolbelt }
   - { name: terraform }
+  - { name: node }
+  - { name: redis }
   - { name: vim,
       install_options: with-lua }
   - { name: wget,
