@@ -12,8 +12,10 @@
   - { name: zsh-completions }
   - { name: heroku-toolbelt }
   - { name: terraform }
+  - { name: maven }
   - { name: node }
   - { name: redis }
+  - { name: tree }
   - { name: vim,
       install_options: with-lua }
   - { name: wget,
