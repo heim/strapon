@@ -14,6 +14,7 @@
   - { name: terraform }
   - { name: maven }
   - { name: node }
+  - { name: postgres }
   - { name: redis }
   - { name: tree }
   - { name: vim,
