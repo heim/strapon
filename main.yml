@@ -8,3 +8,4 @@
     - homebrew-cask
     #- dotfiles
     - dotvim
+    - node-packages

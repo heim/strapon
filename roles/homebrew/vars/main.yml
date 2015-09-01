@@ -17,6 +17,7 @@
   - { name: postgres }
   - { name: redis }
   - { name: tree }
+  - { name: pwgen }
   - { name: vim,
       install_options: with-lua }
   - { name: wget,
