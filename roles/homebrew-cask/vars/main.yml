@@ -2,6 +2,8 @@
  homebrew_cask_packages:
   - alfred
   - caffeine
+  - dockertoolbox
+  - dropbox
   - virtualbox
   - vagrant
   - divvy

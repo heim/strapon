@@ -9,4 +9,4 @@
     name: "{{ item }}"
     state: latest
     global: true
-  with_items: npm_global
+  with_items:  "{{npm_global_packages}}"
