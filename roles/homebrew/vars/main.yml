@@ -18,6 +18,8 @@
   - { name: node }
   - { name: postgres }
   - { name: redis }
+  - { name: scala }
+  - { name: sbt }
   - { name: tree }
   - { name: pwgen }
   - { name: vim,
