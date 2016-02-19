@@ -18,10 +18,12 @@
   - { name: node }
   - { name: postgres }
   - { name: redis }
+  - { name: ruby }
   - { name: scala }
   - { name: sbt }
   - { name: ipcalc }
   - { name: tree }
+  - { name: python }
   - { name: pwgen }
   - { name: vim,
       install_options: with-lua }

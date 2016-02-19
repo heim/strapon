@@ -1,9 +1,9 @@
 ---
-#- name: Update and Upgrade all
-#  homebrew:
-#    update_homebrew: yes
-#    upgrade_all: yes
-#
+- name: Update and Upgrade all
+  homebrew:
+    update_homebrew: yes
+    upgrade_all: yes
+
 - name: brew tap
   homebrew_tap:
     tap: "{{ item }}"
