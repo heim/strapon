@@ -2,13 +2,11 @@
  homebrew_cask_packages:
   - alfred
   - caffeine
-  - dockertoolbox
   - dropbox
   - virtualbox
   - vagrant
   - divvy
   - flux
-  - gitup
   - grandperspective
   - intellij-idea-ce
   - firefox
@@ -24,4 +22,4 @@
   - telegram
   - macvim
   - tunnelblick
-  - sublime-text3
+  - sublime-text

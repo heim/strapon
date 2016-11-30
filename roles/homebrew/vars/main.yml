@@ -8,7 +8,6 @@
  homebrew_packages:
   - { name: packer }
   - { name: awscli }
-  - { name: brew-cask }
   - { name: ack }
   - { name: zsh }
   - { name: zsh-completions }

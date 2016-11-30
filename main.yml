@@ -4,8 +4,8 @@
   gather_facts: no
   sudo: no
   roles:
+    - dotvim
+      #    - dotfiles
     - homebrew
     - homebrew-cask
-    #- dotfiles
-    - dotvim
     - node-packages
