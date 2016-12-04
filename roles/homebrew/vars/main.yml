@@ -15,6 +15,7 @@
   - { name: terraform }
   - { name: maven }
   - { name: node }
+  - { name: golang }
   - { name: postgres }
   - { name: redis }
   - { name: ruby }
@@ -24,6 +25,7 @@
   - { name: tree }
   - { name: python }
   - { name: pwgen }
+  - { name: thefuck }
   - { name: vim,
       install_options: with-lua }
   - { name: wget,
