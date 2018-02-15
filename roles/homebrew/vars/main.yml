@@ -2,8 +2,7 @@
  homebrew_taps:
    - caskroom/cask
    - caskroom/versions
-   - homebrew/versions
-   - homebrew/binary
+   - homebrew/core
 
  homebrew_packages:
   - { name: packer }
